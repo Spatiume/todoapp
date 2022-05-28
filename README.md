@@ -1,5 +1,11 @@
 # todo-app
 
+``` 
+Это приложение было с целью применения своих знаний на практике.
+Задача была скопировать существующий todos lists с todomvc.com для vue,
+и расширить его функционал: добавить vue-router, vuex 
+```
+
 > A Vue.js project
 
 ## Build Setup
@@ -15,4 +21,3 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
